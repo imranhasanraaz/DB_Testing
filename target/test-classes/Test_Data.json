@@ -1,0 +1,21 @@
+{
+  "project_details": {
+    "project_name": "Database",
+    "env": "Java",
+    "browser": "chrome",
+    "project_author": {
+      "name": "Imran Hossan",
+      "login": "Imran",
+      "email": "h.imran@qa-academy.by"
+    }
+  },
+  "test_count": {
+    "limit": "10"
+  },
+  "status_ids": {
+    "ids" : [1,2,3]
+  },
+  "session": {
+    "session_id": "1"
+  }
+}

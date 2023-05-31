@@ -1,0 +1,602 @@
+2023-05-18 03:09:00 INFO  - Running Random Test
+2023-05-18 03:09:00 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-18 03:09:00 INFO  - Deleted all updated information
+2023-05-18 03:09:55 INFO  - Running Random Test
+2023-05-18 03:09:55 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-18 03:09:55 INFO  - Deleted all updated information
+2023-05-18 03:10:11 INFO  - Running Random Test
+2023-05-18 03:10:11 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-18 03:10:11 INFO  - Deleted all updated information
+2023-05-18 03:17:43 INFO  - Running Random Test
+2023-05-18 03:17:43 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-18 03:17:44 INFO  - Deleted all updated information
+2023-05-18 03:18:34 INFO  - Running Random Test
+2023-05-18 03:18:34 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-18 03:18:34 INFO  - Deleted all updated information
+2023-05-18 03:24:21 INFO  - Running Random Test
+2023-05-18 03:24:21 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-18 03:24:21 INFO  - Deleted all updated information
+2023-05-18 03:26:54 INFO  - Running Random Test
+2023-05-18 03:26:54 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-18 03:26:54 INFO  - Deleted all updated information
+2023-05-18 03:37:24 INFO  - Running Random Test
+2023-05-18 03:37:24 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-18 03:37:24 INFO  - Deleted all updated information
+2023-05-18 03:45:28 INFO  - Copying Test with that repeated same digit
+2023-05-18 03:45:29 INFO  - Getting current author and project
+2023-05-18 03:45:29 INFO  - Test Start
+2023-05-18 03:48:10 INFO  - Copying Test with that repeated same digit
+2023-05-18 03:48:11 INFO  - Getting current author and project
+2023-05-18 03:48:11 INFO  - Test Start
+2023-05-18 03:58:34 INFO  - Test Start
+2023-05-18 03:58:34 INFO  - Copying Test with that repeated same digit
+2023-05-18 03:58:50 INFO  - Running Random Test
+2023-05-18 03:58:50 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-18 03:58:50 INFO  - Deleted all updated information
+2023-05-18 03:59:23 INFO  - Running Random Test
+2023-05-18 03:59:23 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-18 03:59:23 INFO  - Deleted all updated information
+2023-05-18 04:06:12 INFO  - Running Random Test
+2023-05-18 04:06:12 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-18 04:06:13 INFO  - Deleted all updated information
+2023-05-18 04:08:13 INFO  - Test Start
+2023-05-18 04:08:13 INFO  - Copying Test with that repeated same digit
+2023-05-18 04:18:18 INFO  - Test Start
+2023-05-18 04:18:18 INFO  - Copying Test with that repeated same digit
+2023-05-18 04:24:11 INFO  - Test Start
+2023-05-18 04:24:11 INFO  - Copying Test with that repeated same digit
+2023-05-18 04:26:29 INFO  - Test Start
+2023-05-18 04:26:29 INFO  - Copying Test with that repeated same digit
+2023-05-18 04:33:39 INFO  - Test Start
+2023-05-18 04:33:39 INFO  - 
+2023-05-18 04:34:46 INFO  - Test Start
+2023-05-18 04:37:41 INFO  - Test Start
+2023-05-18 04:39:07 INFO  - Test Start
+2023-05-18 04:39:46 INFO  - Test Start
+2023-05-18 04:40:54 INFO  - Test Start
+2023-05-18 04:42:01 INFO  - Test Start
+2023-05-18 04:42:28 INFO  - Test Start
+2023-05-18 04:58:33 INFO  - Test Start
+2023-05-18 05:01:37 INFO  - Test Start
+2023-05-18 05:02:55 INFO  - Test Start
+2023-05-18 05:04:02 INFO  - Test Start
+2023-05-18 05:04:02 INFO  - Test Added
+2023-05-18 05:04:02 INFO  - Test Added
+2023-05-18 05:07:01 INFO  - Running Random Test
+2023-05-18 05:07:01 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-18 05:07:01 INFO  - Deleted all updated information
+2023-05-18 05:11:47 INFO  - Test Start
+2023-05-18 05:12:08 INFO  - Test Start
+2023-05-18 05:12:18 INFO  - Test Start
+2023-05-18 05:14:00 INFO  - Test Start
+2023-05-18 05:14:35 INFO  - Test Start
+2023-05-18 05:15:20 INFO  - Test Start
+2023-05-18 05:18:46 INFO  - Test Start
+2023-05-18 05:20:58 INFO  - Test Start
+2023-05-18 05:22:56 INFO  - Test Start
+2023-05-18 05:23:58 INFO  - Test Start
+2023-05-18 05:33:45 INFO  - Test Start
+2023-05-18 05:34:44 INFO  - Test Start
+2023-05-18 05:35:19 INFO  - Test Start
+2023-05-18 05:36:58 INFO  - Test Start
+2023-05-18 05:38:20 INFO  - Test Start
+2023-05-18 05:38:59 INFO  - Test Start
+2023-05-18 05:40:25 INFO  - Test Start
+2023-05-18 05:41:01 INFO  - Test Start
+2023-05-18 05:41:44 INFO  - Test Start
+2023-05-18 05:42:09 INFO  - Test Start
+2023-05-18 05:42:25 INFO  - Test Start
+2023-05-18 05:42:38 INFO  - Test Start
+2023-05-18 05:43:38 INFO  - Test Start
+2023-05-18 05:44:17 INFO  - Test Start
+2023-05-18 05:45:10 INFO  - Test Start
+2023-05-18 05:45:19 INFO  - Test Start
+2023-05-18 05:47:09 INFO  - Test Start
+2023-05-18 05:48:02 INFO  - Test Start
+2023-05-18 05:48:21 INFO  - Test Start
+2023-05-18 05:49:21 INFO  - Test Start
+2023-05-18 05:49:54 INFO  - Test Start
+2023-05-18 05:49:54 INFO  - Successfullyy added
+2023-05-18 05:49:54 INFO  - Successfullyy added
+2023-05-18 05:49:54 INFO  - Successfullyy added
+2023-05-18 05:51:37 INFO  - Running Random Test
+2023-05-18 05:51:37 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-18 05:51:37 INFO  - Deleted all updated information
+2023-05-18 05:55:24 INFO  - Running Random Test
+2023-05-18 05:55:24 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-18 05:55:24 INFO  - Deleted all updated information
+2023-05-18 05:57:27 INFO  - Running Random Test
+2023-05-18 05:57:27 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-18 05:59:14 INFO  - Running Random Test
+2023-05-18 05:59:14 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-18 05:59:14 INFO  - Deleted all updated information
+2023-05-18 06:00:35 INFO  - Test Start
+2023-05-18 06:07:15 INFO  - Test Start
+2023-05-18 06:26:17 INFO  - Running Random Test
+2023-05-18 06:26:17 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-18 06:26:17 INFO  - Deleted all updated information
+2023-05-18 06:26:29 INFO  - Test Start
+2023-05-18 06:28:03 INFO  - Test Start
+2023-05-18 06:30:40 INFO  - Running Random Test
+2023-05-18 06:30:40 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-18 06:30:40 INFO  - Deleted all updated information
+2023-05-18 06:31:22 INFO  - Test Start
+2023-05-18 06:33:11 INFO  - Test Start
+2023-05-18 06:35:26 INFO  - Test Start
+2023-05-18 06:37:02 INFO  - Test Start
+2023-05-18 06:37:16 INFO  - Test Start
+2023-05-18 06:38:49 INFO  - Test Start
+2023-05-18 06:39:21 INFO  - Test Start
+2023-05-18 06:40:30 INFO  - Test Start
+2023-05-18 06:42:09 INFO  - Test Start
+2023-05-18 06:42:09 INFO  - Deleted all updated information
+2023-05-18 06:42:33 INFO  - Test Start
+2023-05-18 06:42:33 INFO  - Deleted all updated information
+2023-05-18 06:44:48 INFO  - Test Start
+2023-05-18 06:44:48 INFO  - Deleted all updated information
+2023-05-18 06:46:47 INFO  - Test Start
+2023-05-18 06:46:47 INFO  - Deleted all updated information
+2023-05-18 06:47:47 INFO  - Test Start
+2023-05-18 06:47:47 INFO  - Deleted all updated information
+2023-05-18 06:48:22 INFO  - Test Start
+2023-05-18 06:48:22 INFO  - Deleted all updated information
+2023-05-18 06:49:32 INFO  - Test Start
+2023-05-18 06:49:32 INFO  - Deleted all updated information
+2023-05-18 06:52:00 INFO  - Test Start
+2023-05-18 06:52:00 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-18 06:52:00 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-18 06:52:00 INFO  - Update information about them in the database.
+2023-05-18 06:52:01 INFO  - Deleted all updated information
+2023-05-19 14:57:32 INFO  - Test Start
+2023-05-19 14:57:32 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-19 14:57:32 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-19 14:57:32 INFO  - Update information about them in the database.
+2023-05-19 14:57:32 INFO  - Deleted all updated information
+2023-05-19 14:58:18 INFO  - Test Start
+2023-05-19 14:58:18 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-19 14:58:18 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-19 14:58:18 INFO  - Update information about them in the database.
+2023-05-19 14:58:18 INFO  - Deleted all updated information
+2023-05-19 14:59:02 INFO  - Test Start
+2023-05-19 14:59:02 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-19 14:59:02 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-19 14:59:02 INFO  - Update information about them in the database.
+2023-05-19 14:59:02 INFO  - Deleted all updated information
+2023-05-19 15:38:11 INFO  - Test Start
+2023-05-19 15:38:11 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-19 15:38:11 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-19 15:38:11 INFO  - Update information about them in the database.
+2023-05-19 15:38:11 INFO  - Deleted all updated information
+2023-05-19 15:38:55 INFO  - Test Start
+2023-05-19 15:38:55 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-19 15:38:55 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-19 15:38:55 INFO  - Update information about them in the database.
+2023-05-19 15:38:55 INFO  - Deleted all updated information
+2023-05-19 15:42:21 INFO  - Running Random Test
+2023-05-19 15:42:21 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-19 15:42:21 INFO  - Deleted all updated information
+2023-05-19 16:01:22 INFO  - Running Random Test
+2023-05-19 16:02:10 INFO  - Running Random Test
+2023-05-19 16:03:52 INFO  - Running Random Test
+2023-05-19 16:06:24 INFO  - Running Random Test
+2023-05-19 16:06:24 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-19 16:08:02 INFO  - Running Random Test
+2023-05-19 16:09:04 INFO  - Running Random Test
+2023-05-19 16:09:04 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-19 16:12:25 INFO  - Running Random Test
+2023-05-19 16:12:25 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-19 16:20:53 INFO  - Running Random Test
+2023-05-19 16:20:53 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-19 16:20:53 INFO  - Deleted all updated information
+2023-05-19 16:22:28 INFO  - Running Random Test
+2023-05-19 16:22:28 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-19 16:22:28 INFO  - Deleted all updated information
+2023-05-19 16:43:05 INFO  - Running Random Test
+2023-05-19 16:43:05 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-19 16:44:41 INFO  - Running Random Test
+2023-05-19 16:44:41 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-19 16:46:56 INFO  - Running Random Test
+2023-05-19 16:46:56 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-19 16:46:56 INFO  - Deleted all updated information
+2023-05-19 18:31:08 INFO  - Running Random Test
+2023-05-19 18:31:08 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-19 18:31:08 INFO  - Deleted all updated information
+2023-05-19 18:39:20 INFO  - Running Random Test
+2023-05-19 18:39:20 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-19 21:33:49 INFO  - Running Random Test
+2023-05-19 21:33:49 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-19 21:33:49 INFO  - Deleted all updated information
+2023-05-19 21:46:03 INFO  - Running Random Test
+2023-05-19 21:46:03 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-19 21:46:03 INFO  - Deleted all updated information
+2023-05-19 21:46:38 INFO  - Running Random Test
+2023-05-19 21:46:38 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-19 21:48:03 INFO  - Running Random Test
+2023-05-19 21:48:03 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-19 21:48:03 INFO  - Deleted all updated information
+2023-05-19 21:51:08 INFO  - Running Random Test
+2023-05-19 21:51:08 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-19 21:51:08 INFO  - Deleted all updated information
+2023-05-19 22:03:56 INFO  - Test Start
+2023-05-19 22:03:56 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-19 22:03:56 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-19 22:03:56 INFO  - Update information about them in the database.
+2023-05-19 22:03:56 INFO  - Deleted all updated information
+2023-05-19 22:04:52 INFO  - Test Start
+2023-05-19 22:04:52 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-19 22:04:52 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-19 22:04:52 INFO  - Update information about them in the database.
+2023-05-19 22:04:52 INFO  - Deleted all updated information
+2023-05-19 22:06:44 INFO  - Test Start
+2023-05-19 22:06:44 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-19 22:06:44 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-19 22:06:44 INFO  - Update information about them in the database.
+2023-05-19 22:06:44 INFO  - Deleted all updated information
+2023-05-20 23:36:06 INFO  - Test Start
+2023-05-20 23:36:06 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-20 23:36:06 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-20 23:36:06 INFO  - Update information about them in the database.
+2023-05-20 23:36:06 INFO  - Deleted all updated information
+2023-05-20 23:39:23 INFO  - Test Start
+2023-05-20 23:39:23 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-20 23:39:23 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-20 23:39:23 INFO  - Update information about them in the database.
+2023-05-20 23:39:23 INFO  - Deleted all updated information
+2023-05-20 23:40:11 INFO  - Test Start
+2023-05-20 23:40:11 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-20 23:40:11 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-20 23:40:11 INFO  - Update information about them in the database.
+2023-05-20 23:40:11 INFO  - Deleted all updated information
+2023-05-20 23:42:23 INFO  - Test Start
+2023-05-20 23:42:23 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-20 23:42:23 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-20 23:42:23 INFO  - Update information about them in the database.
+2023-05-20 23:42:23 INFO  - Deleted all updated information
+2023-05-20 23:42:59 INFO  - Test Start
+2023-05-20 23:42:59 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-20 23:42:59 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-20 23:42:59 INFO  - Update information about them in the database.
+2023-05-20 23:42:59 INFO  - Deleted all updated information
+2023-05-20 23:43:23 INFO  - Test Start
+2023-05-20 23:43:23 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-20 23:43:23 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-20 23:43:23 INFO  - Update information about them in the database.
+2023-05-20 23:43:23 INFO  - Deleted all updated information
+2023-05-20 23:51:02 INFO  - Test Start
+2023-05-20 23:51:02 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-20 23:51:02 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-20 23:51:02 INFO  - Update information about them in the database.
+2023-05-20 23:51:02 INFO  - Deleted all updated information
+2023-05-20 23:52:03 INFO  - Test Start
+2023-05-20 23:52:03 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-20 23:52:03 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-20 23:52:03 INFO  - Update information about them in the database.
+2023-05-20 23:52:03 INFO  - Deleted all updated information
+2023-05-20 23:52:16 INFO  - Test Start
+2023-05-20 23:52:16 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-20 23:52:16 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-20 23:52:16 INFO  - Update information about them in the database.
+2023-05-20 23:52:16 INFO  - Deleted all updated information
+2023-05-21 00:03:57 INFO  - Test Start
+2023-05-21 00:03:57 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-21 00:03:57 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 00:03:57 INFO  - Update information about them in the database.
+2023-05-21 00:03:57 INFO  - Deleted all updated information
+2023-05-21 00:04:34 INFO  - Test Start
+2023-05-21 00:04:34 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-21 00:04:34 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 00:04:34 INFO  - Update information about them in the database.
+2023-05-21 00:04:34 INFO  - Deleted all updated information
+2023-05-21 00:32:56 INFO  - Test Start
+2023-05-21 00:32:56 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-21 00:32:56 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 00:32:56 INFO  - Update information about them in the database.
+2023-05-21 00:32:56 INFO  - Deleted all updated information
+2023-05-21 00:34:37 INFO  - Test Start
+2023-05-21 00:34:37 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-21 00:34:37 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 00:34:37 INFO  - Update information about them in the database.
+2023-05-21 00:34:37 INFO  - Deleted all updated information
+2023-05-21 00:35:06 INFO  - Test Start
+2023-05-21 00:35:06 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-21 00:35:06 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 00:35:06 INFO  - Update information about them in the database.
+2023-05-21 00:35:06 INFO  - Deleted all updated information
+2023-05-21 00:36:17 INFO  - Test Start
+2023-05-21 00:36:17 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-21 00:36:17 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 00:36:17 INFO  - Update information about them in the database.
+2023-05-21 00:36:17 INFO  - Deleted all updated information
+2023-05-21 00:36:53 INFO  - Test Start
+2023-05-21 00:36:53 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-21 00:36:53 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 00:36:53 INFO  - Update information about them in the database.
+2023-05-21 00:36:53 INFO  - Deleted all updated information
+2023-05-21 00:37:41 INFO  - Test Start
+2023-05-21 00:37:41 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-21 00:37:41 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 00:37:41 INFO  - Update information about them in the database.
+2023-05-21 00:37:41 INFO  - Deleted all updated information
+2023-05-21 00:38:12 INFO  - Test Start
+2023-05-21 00:38:12 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-21 00:38:12 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 00:38:12 INFO  - Update information about them in the database.
+2023-05-21 00:38:12 INFO  - Deleted all updated information
+2023-05-21 00:39:11 INFO  - Test Start
+2023-05-21 00:39:11 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-21 00:39:11 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 00:39:11 INFO  - Update information about them in the database.
+2023-05-21 00:39:11 INFO  - Deleted all updated information
+2023-05-21 00:43:33 INFO  - Test Start
+2023-05-21 00:43:33 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-21 00:43:33 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 00:43:33 INFO  - Update information about them in the database.
+2023-05-21 00:43:33 INFO  - Deleted all updated information
+2023-05-21 00:45:04 INFO  - Test Start
+2023-05-21 00:45:04 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-21 00:45:04 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 00:45:04 INFO  - Update information about them in the database.
+2023-05-21 00:45:04 INFO  - Deleted all updated information
+2023-05-21 00:47:33 INFO  - Test Start
+2023-05-21 00:47:33 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-21 00:47:33 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 00:47:33 INFO  - Update information about them in the database.
+2023-05-21 00:47:33 INFO  - Deleted all updated information
+2023-05-21 00:53:36 INFO  - Test Start
+2023-05-21 00:53:36 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-21 00:53:36 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 00:53:36 INFO  - Deleted all updated information
+2023-05-21 01:02:44 INFO  - Test Start
+2023-05-21 01:02:44 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-21 01:02:44 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 01:02:44 INFO  - Deleted all updated information
+2023-05-21 01:06:32 INFO  - Test Start
+2023-05-21 01:06:32 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-21 01:06:32 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 01:06:32 INFO  - Deleted all updated information
+2023-05-21 01:09:18 INFO  - Test Start
+2023-05-21 01:09:18 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-21 01:09:18 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 01:09:18 INFO  - Deleted all updated information
+2023-05-21 01:10:21 INFO  - Test Start
+2023-05-21 01:10:21 INFO  - Select tests from the database where ID contains two random repeating digit
+2023-05-21 01:10:21 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 01:10:21 INFO  - Deleted all updated information
+2023-05-21 11:53:10 INFO  - Test Start
+2023-05-21 11:53:10 INFO  - Select tests from the database where ID contains two repeating digit
+2023-05-21 11:53:10 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 11:53:10 INFO  - Deleted all updated information
+2023-05-21 11:55:36 INFO  - Test Start
+2023-05-21 11:55:36 INFO  - Select tests from the database where ID contains two repeating digit
+2023-05-21 11:55:36 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 11:55:36 INFO  - Deleted all updated information
+2023-05-21 12:00:35 INFO  - Test Start
+2023-05-21 12:00:35 INFO  - Select tests from the database where ID contains two repeating digit
+2023-05-21 12:00:35 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 12:00:35 INFO  - Deleted all updated information
+2023-05-21 12:02:14 INFO  - Test Start
+2023-05-21 12:02:14 INFO  - Select tests from the database where ID contains two repeating digit
+2023-05-21 12:02:14 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 12:02:15 INFO  - Deleted all updated information
+2023-05-21 12:03:09 INFO  - Test Start
+2023-05-21 12:03:09 INFO  - Select tests from the database where ID contains two repeating digit
+2023-05-21 12:03:09 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 12:03:09 INFO  - Deleted all updated information
+2023-05-21 12:03:52 INFO  - Test Start
+2023-05-21 12:03:52 INFO  - Select tests from the database where ID contains two repeating digit
+2023-05-21 12:03:52 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 12:03:52 INFO  - Deleted all updated information
+2023-05-21 12:14:05 INFO  - Test Start
+2023-05-21 12:14:05 INFO  - Select tests from the database where ID contains two repeating digit
+2023-05-21 12:14:05 INFO  - Copy these tests into the database with an indication of the current project and the author.
+2023-05-21 12:14:05 INFO  - Deleted all updated information
+2023-05-21 12:14:33 INFO  - Test Start
+2023-05-21 12:14:33 INFO  - Select tests from the database where ID contains two repeating digit
+2023-05-21 12:14:33 INFO  - Copy these tests into the database with an indication of the current project and the author.
+2023-05-21 12:14:33 INFO  - Deleted all updated information
+2023-05-21 12:19:02 INFO  - Test Start
+2023-05-21 12:19:02 INFO  - Select tests from the database where ID contains two repeating digit
+2023-05-21 12:19:02 INFO  - Copy these tests into the database with an indication of the current project and the author.
+2023-05-21 12:19:02 INFO  - Deleted all updated information
+2023-05-21 12:31:58 INFO  - Deleted all updated information
+2023-05-21 12:32:23 INFO  - Deleted all updated information
+2023-05-21 12:44:10 INFO  - Deleted all updated information
+2023-05-21 12:44:23 INFO  - Deleted all updated information
+2023-05-21 12:53:56 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-21 12:53:56 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 12:53:56 INFO  - Simulate the launch of each tests by updating method name
+2023-05-21 12:53:56 INFO  - Deleted all updated information
+2023-05-21 13:03:14 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-21 13:03:14 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 13:03:14 INFO  - Simulate the launch of each tests by updating method name
+2023-05-21 13:03:14 INFO  - Deleted all updated information
+2023-05-21 13:03:44 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-21 13:03:44 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 13:03:44 INFO  - Simulate the launch of each tests by updating method name
+2023-05-21 13:03:45 INFO  - Deleted all updated information
+2023-05-21 13:10:55 INFO  - Running Random Test
+2023-05-21 13:10:55 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-21 13:10:55 INFO  - Deleted all updated information
+2023-05-21 13:16:22 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-21 13:16:22 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 13:16:23 INFO  - Simulate the launch of each tests by updating method name
+2023-05-21 13:16:23 INFO  - Deleted all updated information
+2023-05-21 14:53:44 INFO  - Running Random Test
+2023-05-21 14:53:44 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-21 14:53:44 INFO  - Deleted all updated information
+2023-05-21 22:09:01 INFO  - Running Random Test
+2023-05-21 22:09:01 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-21 22:09:01 INFO  - Deleted all updated information
+2023-05-21 22:15:25 INFO  - Running Random Test
+2023-05-21 22:15:25 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-21 22:15:26 INFO  - Deleted all updated information
+2023-05-21 22:19:33 INFO  - Running Random Test
+2023-05-21 22:19:33 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-21 22:19:33 INFO  - Deleted all updated information
+2023-05-21 22:20:09 INFO  - Running Random Test
+2023-05-21 22:20:09 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-21 22:23:46 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-21 22:23:46 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 22:23:46 INFO  - Simulate the launch of each tests by updating method name
+2023-05-21 22:23:47 INFO  - Compare with Updated test and Initially selected Test 
+2023-05-21 22:23:47 INFO  - Deleted all updated information
+2023-05-21 22:33:59 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-21 22:33:59 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 22:33:59 INFO  - Simulate the launch of each tests by updating method name
+2023-05-21 22:34:00 INFO  - Compare with Updated test and Initially selected Test 
+2023-05-21 22:34:00 INFO  - Deleted all updated information
+2023-05-21 22:35:19 INFO  - Running Random Test
+2023-05-21 22:35:19 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-21 22:42:55 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-21 22:42:55 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 22:42:55 INFO  - Simulate the launch of each tests by updating method name
+2023-05-21 22:42:55 INFO  - Compare with Updated test and Initially selected Test 
+2023-05-21 22:42:55 INFO  - Deleted all updated information
+2023-05-21 22:45:05 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-21 22:45:05 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 22:45:05 INFO  - Simulate the launch of each tests by updating method name
+2023-05-21 22:45:05 INFO  - Compare with Updated test and Initially selected Test 
+2023-05-21 22:45:05 INFO  - Deleted all updated information
+2023-05-21 22:46:28 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-21 22:46:28 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 22:46:29 INFO  - Simulate the launch of each tests by updating method name
+2023-05-21 22:46:29 INFO  - Compare with Updated test and Initially selected Test 
+2023-05-21 22:46:29 INFO  - Deleted all updated information
+2023-05-21 22:47:33 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-21 22:47:33 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 22:47:33 INFO  - Simulate the launch of each tests by updating method name
+2023-05-21 22:47:33 INFO  - Compare with Updated test and Initially selected Test 
+2023-05-21 22:47:33 INFO  - Deleted all updated information
+2023-05-21 22:48:32 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-21 22:48:32 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 22:48:32 INFO  - Simulate the launch of each tests by updating method name
+2023-05-21 22:48:33 INFO  - Compare with Updated test and Initially selected Test 
+2023-05-21 22:48:33 INFO  - Deleted all updated information
+2023-05-21 22:55:28 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-21 22:55:28 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-21 22:55:28 INFO  - Simulate the launch of each tests by updating method name
+2023-05-21 22:55:28 INFO  - Compare with Updated test and Initially selected Test 
+2023-05-21 22:55:28 INFO  - Deleted all updated information
+2023-05-24 10:51:39 INFO  - Running Random Test
+2023-05-24 10:51:39 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-24 10:55:54 INFO  - Running Random Test
+2023-05-24 10:55:54 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-24 10:59:31 INFO  - Running Random Test
+2023-05-24 10:59:31 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-24 11:07:23 INFO  - Running Random Test
+2023-05-24 11:07:23 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-24 11:09:54 INFO  - Running Random Test
+2023-05-24 11:09:54 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-24 11:17:13 INFO  - Running Random Test
+2023-05-24 11:17:13 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-24 11:27:38 INFO  - Running Random Test
+2023-05-24 11:27:38 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-24 11:27:38 INFO  - Deleted all updated information
+2023-05-24 11:31:15 INFO  - Running Random Test
+2023-05-24 11:31:15 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-24 11:31:16 INFO  - Deleted all updated information
+2023-05-24 11:32:15 INFO  - Running Random Test
+2023-05-24 11:32:15 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-24 11:32:16 INFO  - Deleted all updated information
+2023-05-24 11:32:35 INFO  - Running Random Test
+2023-05-24 11:32:35 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-24 11:35:57 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-24 11:35:57 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-24 11:35:57 INFO  - Simulate the launch of each tests by updating method name
+2023-05-24 11:47:01 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-24 11:47:01 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-24 11:47:01 INFO  - Simulate the launch of each tests by updating method name
+2023-05-24 11:47:02 INFO  - Compare with Updated test and Initially selected Test 
+2023-05-24 11:47:02 INFO  - Deleted all updated information
+2023-05-24 11:47:13 INFO  - Running Random Test
+2023-05-24 11:47:13 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-24 11:47:13 INFO  - Deleted all updated information
+2023-05-24 11:54:36 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-24 11:54:36 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-24 11:54:36 INFO  - Simulate the launch of each tests by updating method name
+2023-05-24 11:54:36 INFO  - Compare with Updated test and Initially selected Test 
+2023-05-24 11:54:37 INFO  - Deleted all updated information
+2023-05-24 11:58:07 INFO  - Running Random Test
+2023-05-24 11:58:07 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-24 11:58:08 INFO  - Deleted all updated information
+2023-05-24 11:58:18 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-24 11:58:18 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-24 11:58:18 INFO  - Simulate the launch of each tests by updating method name
+2023-05-24 11:58:18 INFO  - Compare with Updated test and Initially selected Test 
+2023-05-24 11:58:18 INFO  - Deleted all updated information
+2023-05-24 12:30:08 INFO  - Running Random Test
+2023-05-24 12:30:08 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-24 12:30:08 INFO  - Deleted all updated information
+2023-05-24 13:01:41 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-24 13:01:41 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-24 13:01:41 INFO  - Simulate the launch of each tests by updating method name
+2023-05-24 13:02:14 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-24 13:02:14 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-24 13:02:14 INFO  - Simulate the launch of each tests by updating method name
+2023-05-24 13:19:23 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-24 13:19:23 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-24 13:19:23 INFO  - Simulate the launch of each tests by updating method name
+2023-05-24 13:19:23 INFO  - Compare with Updated test and Initially selected Test 
+2023-05-24 13:19:23 INFO  - Deleted all updated information
+2023-05-24 13:19:38 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-24 13:19:38 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-24 13:19:38 INFO  - Simulate the launch of each tests by updating method name
+2023-05-24 13:19:39 INFO  - Compare with Updated test and Initially selected Test 
+2023-05-24 13:19:39 INFO  - Deleted all updated information
+2023-05-24 13:19:55 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-24 13:19:55 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-24 13:19:55 INFO  - Simulate the launch of each tests by updating method name
+2023-05-24 13:19:55 INFO  - Compare with Updated test and Initially selected Test 
+2023-05-24 13:19:55 INFO  - Deleted all updated information
+2023-05-24 13:20:18 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-24 13:20:18 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-24 13:20:18 INFO  - Simulate the launch of each tests by updating method name
+2023-05-24 13:20:18 INFO  - Compare with Updated test and Initially selected Test 
+2023-05-24 13:20:18 INFO  - Deleted all updated information
+2023-05-24 13:20:32 INFO  - Running Random Test
+2023-05-24 13:20:32 INFO  - Add a result of each completed test in the database as a new record in the Test table.
+2023-05-24 13:20:32 INFO  - Deleted all updated information
+2023-05-24 13:20:43 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-24 13:20:43 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-24 13:20:43 INFO  - Simulate the launch of each tests by updating method name
+2023-05-24 13:20:43 INFO  - Compare with Updated test and Initially selected Test 
+2023-05-24 13:20:43 INFO  - Deleted all updated information
+2023-05-24 13:24:14 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-24 13:24:14 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-24 13:24:14 INFO  - Deleted all updated information
+2023-05-24 13:24:40 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-24 13:24:40 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-24 13:24:40 INFO  - Deleted all updated information
+2023-05-24 13:25:11 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-24 13:25:11 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-24 13:25:11 INFO  - Simulate the launch of each tests by updating method name
+2023-05-24 13:25:11 INFO  - Compare with Updated test and Initially selected Test 
+2023-05-24 13:25:12 INFO  - Deleted all updated information
+2023-05-24 13:30:54 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-24 13:30:54 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-24 13:30:54 INFO  - Simulate the launch of each tests by updating method name
+2023-05-24 13:30:54 INFO  - Compare with Updated test and Initially selected Test 
+2023-05-24 13:30:54 INFO  - Deleted all updated information
+2023-05-24 13:37:33 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-24 13:37:33 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-24 13:37:33 INFO  - Simulate the launch of each tests by updating method name
+2023-05-24 13:37:33 INFO  - Deleted all updated information
+2023-05-24 13:38:54 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-24 13:38:54 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-24 13:38:54 INFO  - Simulate the launch of each tests by updating method name
+2023-05-24 13:41:57 INFO  - Deleted all updated information
+2023-05-24 13:42:15 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-24 13:42:15 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-24 13:42:15 INFO  - Simulate the launch of each tests by updating method name
+2023-05-24 13:42:15 INFO  - Compare with Updated test and Initially selected Test 
+2023-05-24 13:42:15 INFO  - Deleted all updated information
+2023-05-24 13:57:21 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-24 13:57:21 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-24 13:57:21 INFO  - Simulate the launch of each tests by updating method name
+2023-05-24 13:57:21 INFO  - Compare with Updated test and Initially selected Test 
+2023-05-24 13:57:21 INFO  - Deleted all updated information
+2023-05-24 13:57:33 INFO  - Select tests from the database where ID contains two random repeating digits
+2023-05-24 13:57:33 INFO  - Copy these tests with an indication of the current project and the author.
+2023-05-24 13:57:33 INFO  - Simulate the launch of each tests by updating method name
+2023-05-24 13:57:33 INFO  - Compare with Updated test and Initially selected Test 
+2023-05-24 13:57:33 INFO  - Deleted all updated information

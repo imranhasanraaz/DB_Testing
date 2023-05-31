@@ -1,0 +1,32 @@
+{
+  "test_queries": {
+    "getTestById": "SELECT * FROM test WHERE id= %d",
+    "getAllTests": "SELECT * FROM test",
+    "addTest": "INSERT INTO test (name, status_id, method_name, project_id, session_id, start_time, end_time, env, browser, author_id) VALUES ('%s','%d','%s','%d','%d','%s','%s','%s','%s','%d')",
+    "updateTest": "UPDATE test SET name='%s', status_id='%d', method_name='%s', project_id='%d', session_id='%d', start_time='%s', end_time='%s', env='%s', browser='%s', author_id='%d' WHERE id= '%d'",
+    "deleteTest": "DELETE FROM test WHERE id=%d",
+    "getTestsWithTwoRepeatingDigitsInId": "SELECT * FROM test WHERE id LIKE '%%%s%%' LIMIT %d"
+  },
+  "session_queries": {
+    "getSessionById": "SELECT * FROM session WHERE id= %d",
+    "getAllSessions": "SELECT * FROM session",
+    "addSession": "INSERT INTO session (session_key, created_time, build_number) VALUES ('%s','%s','%s')",
+    "updateSession": "UPDATE session SET session_key=%s, created_time=%s, build_number=%s WHERE id= %s",
+    "deleteSession": "DELETE FROM session WHERE id= %d"
+  },
+  "author_queries": {
+    "getAuthorById": "SELECT * FROM author WHERE id= %d",
+    "getAllAuthors": "SELECT * FROM author",
+    "addAuthor": "INSERT INTO author (name, login, email) VALUES ('%s','%s','%s')",
+    "updateAuthor": "UPDATE author SET name=%s, login=%s, email=%s WHERE id= %s",
+    "deleteAuthor": "DELETE FROM author WHERE id= %d"
+  },
+  "project_queries": {
+    "getProjectById": "SELECT * FROM project WHERE id= %d",
+    "getProjectByName": "SELECT * FROM project WHERE name= ?",
+    "getAllProjects": "SELECT * FROM project",
+    "addProject": "INSERT INTO project (name) VALUES ('%s')",
+    "updateProject": "UPDATE project SET name=%s WHERE id= %d",
+    "deleteProject": "DELETE FROM project WHERE id= %d"
+  }
+}
