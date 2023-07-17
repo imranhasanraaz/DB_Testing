@@ -1,7 +1,0 @@
-{
-  "db_connection": {
-    "user": "root",
-    "password": "Root@123",
-    "connection_string": "jdbc:mysql://localhost:3306/union_reporting"
-  }
-}
