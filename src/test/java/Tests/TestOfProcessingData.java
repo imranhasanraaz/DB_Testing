@@ -9,8 +9,8 @@ import org.testng.annotations.Test;
 import java.util.ArrayList;
 import java.util.List;
 
-import static test_utils.RandomStatusID.selectRandomStatusID;
 import static utils.NumberGenerator.generateNumberOneToNine;
+import static utils.NumberGenerator.selectRandomStatusID;
 
 public class TestOfProcessingData extends BaseTest {
     protected List<TestDTO> testWithRepeatingDigit = new ArrayList<>();
@@ -29,24 +29,24 @@ public class TestOfProcessingData extends BaseTest {
             initialTestIDs.add(test.getId());
             testDAO.addTest(test);
             updatedTestIDs.add(test.getId());
+            Assert.assertEquals(project.getId(), projectDAO.getProjectById(project.getId()).getId(), "Project info not updated");
+            Assert.assertEquals(author.getId(), authorDAO.getAuthorById(author.getId()).getId(), "Author info not updated");
         }
     }
 
     @Test
     public void testOfProcessingData() {
 
-        logger.info("Simulate the launch of each tests by updating status id");
+        logger.info("Simulate the launch of each tests by updating status id and Checking that the Status ID is successfully updated or not");
         for (Long testId : updatedTestIDs) {
             test = testDAO.getTestById(testId);
             int initialStatusId = test.getStatus_id();
-            test.setStatus_id(selectRandomStatusID(initialStatusId));
+            int updatedStatusID = selectRandomStatusID(initialStatusId);
+            test.setStatus_id(updatedStatusID);
             testDAO.updateTest(test);
+            Assert.assertEquals(updatedStatusID, testDAO.getTestById(testId).getStatus_id(), "Status id is not updated");
         }
 
-        logger.info("Compare with Updated test and Initially selected Test by checking status id is sam or not");
-        for (int i = 0; i < updatedTestIDs.size(); i++) {
-            Assert.assertNotEquals(testDAO.getTestById(updatedTestIDs.get(i)).getStatus_id(), testDAO.getTestById(initialTestIDs.get(i)).getStatus_id(), "Tests are not completed, information is not updated.");
-        }
     }
 
     @AfterClass
