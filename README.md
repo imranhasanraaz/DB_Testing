@@ -1,16 +1,18 @@
 ## Overview 
 Main aim of the project was to create successful connection with a database to enable data input and output. Project focuses mostly on creating connection with database, proper usage of SQL syntax,  deployment of DAO and DTO patterns to enable fetching and sending data into database.
 
+## To Run This Project
+- It's necessary to deploy a mysql server locally and restore the database from the [dump](https://github.com/a1qatraineeship/db_task_dump).
+- Clone this repo and Install all maven plugins and dependencies.
+- Change user and password from Config.json(src/test/resources/Config.json) file according to your Database Username & password.
+- Run testng.xml file
+
+
 ## Technologies
 Project is created with:
 -	Java 12
 -	TestNG 7.6.1
 -	MySQL 8.0.31
-
-
-### Test cases 
-
-It's necessary to deploy a mysql server locally and restore the database from the [dump](https://github.com/a1qatraineeship/db_task_dump). Then you need to implement software work with the database through interaction with representations in the form of models (CRUD).
 
 **TC-1. Adding a new entry**
 
